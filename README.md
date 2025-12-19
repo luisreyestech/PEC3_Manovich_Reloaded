@@ -17,6 +17,8 @@ Este trabajo analiza dos casos contemporáneos de hibridación no abordados dire
 
 ## Caso 1: Valorant – El shooter táctico como sistema híbrido de acción, datos y comunicación digital
 
+![Valorant](images/valorant-gameplay.webp)
+
 Valorant, desarrollado por Riot Games, se presenta inicialmente como un videojuego de disparos en primera persona, heredero de una tradición que incluye títulos como *Counter-Strike*. Sin embargo, reducirlo a un simple shooter sería ignorar su verdadera naturaleza como **objeto híbrido**, en el que confluyen mecánicas de acción en tiempo real, habilidades propias de cada personaje, visualización constante de datos y sistemas de comunicación digital integrados.
 
 Desde la perspectiva de Manovich, Valorant no funciona como un medio aislado, sino como una **plataforma de remezcla profunda**. El juego integra múltiples lógicas culturales: la del videojuego competitivo, la del deporte electrónico profesionalizado, la de la comunicación en red y la de la gestión de información en tiempo real. Estas capas no coexisten de forma superficial, sino que se influyen mutuamente de manera estructural.
@@ -34,6 +36,8 @@ Finalmente, Valorant puede entenderse como un ejemplo de cómo el software produ
 ---
 
 ## Caso 2: No Man’s Sky – El universo procedural como hibridación entre simulación, exploración y lógica algorítmica
+
+![No Man's Sky](images/nomanssky.jpg)
 
 No Man’s Sky, desarrollado por Hello Games, representa uno de los ejemplos más claros de hibridación profunda en el ámbito del videojuego contemporáneo. Su propuesta se basa en la generación procedural de un universo prácticamente infinito, donde planetas, criaturas, ecosistemas y estructuras no están diseñados manualmente, sino producidos mediante algoritmos.
 
